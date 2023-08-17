@@ -14,7 +14,7 @@ In my latest post, I unravel [brief overview of your latest post]. For cosmic ad
 
 ## Recent Posts 📜
 
-### [🌠 Starry Dreams and Beyond](sumanpatrik/sumanpatrik.github.io/topic1.md)
+### [🌠 Starry Dreams and Beyond](sumanpatrik.github.io/topic1.md)
 Embark on a journey through constellations and dreams. ✨
 
 ### [🌄 Sunrise Chronicles](link-to-post-2)
